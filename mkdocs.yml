@@ -1,0 +1,31 @@
+site_name: Software Engineer Interview Preparation Kit
+repo_url: https://github.com/softwarebloat/software-engineer-interview-prep-kit
+repo_name: softwarebloat/software-engineer-interview-prep-kit
+nav:
+  - Home: index.md
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: blue
+      accent: light blue
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+      primary: indigo
+      accent: blue
+
+markdown_extensions:
+  - pymdownx.critic
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - tables
