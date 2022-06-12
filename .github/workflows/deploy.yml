@@ -1,0 +1,33 @@
+name: deploy mkdocs
+
+env:
+  python-version: 3.10.4
+  poetry-version: 1.1.13
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy-doc:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source repository
+        uses: actions/checkout@v2
+      - name: Set up Python ${{ env.python-version }}
+        uses: actions/setup-python@v2
+        with:
+          python-version: ${{ env.python-version }}
+      - name: Install poetry ${{ env.poetry-version }}
+        uses: abatilo/actions-poetry@v2.1.1
+        with:
+          poetry-version: ${{ env.poetry-version }}
+      - name: Poetry cache
+        id: poetry-cache
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pypoetry/virtualenvs
+          key: ${{ runner.os }}-python-${{ env.python-version }}-poetry-${{ env.poetry-version }}-lock-${{ hashFiles('poetry.lock') }}
+      - run: poetry install
+      - run: poetry run mkdocs gh-deploy --force
