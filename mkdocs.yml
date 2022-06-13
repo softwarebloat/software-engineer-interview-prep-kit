@@ -4,7 +4,13 @@ repo_name: softwarebloat/software-engineer-interview-prep-kit
 nav:
   - Home: index.md
 
+
+
+
+
 theme:
+  icon:
+    logo: fontawesome/solid/laptop-code
   name: material
   palette:
     - scheme: default
