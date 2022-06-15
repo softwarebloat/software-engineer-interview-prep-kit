@@ -2,11 +2,12 @@ site_name: Software Engineer Interview Preparation Kit
 repo_url: https://github.com/softwarebloat/software-engineer-interview-prep-kit
 repo_name: softwarebloat/software-engineer-interview-prep-kit
 nav:
-  - Home: index.md
-
-
-
-
+  - index.md
+  - System Design: system-design.md
+  - Coding: coding.md
+  - Troubleshooting: troubleshooting.md
+  - Behavioral: behavioral.md
+  - Glossary: glossary.md
 
 theme:
   icon:
