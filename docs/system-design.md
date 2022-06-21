@@ -91,6 +91,8 @@ __Reads__:
 - [ByteByteGo Blog](https://blog.bytebytego.com/)
 - [System Design Interview - An Insider's Guide](https://www.goodreads.com/hu/book/show/54109255-system-design-interview-an-insider-s-guide)
 - [System Design Interview – An Insider's Guide: Volume 2](https://www.goodreads.com/book/show/60631342-system-design-interview-an-insider-s-guide)
+- [Cloudflare Learning Center](https://www.cloudflare.com/it-it/learning/)
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 __YouTube Channels/Playlists__:  
 
