@@ -49,7 +49,8 @@ The last minutes (10/15) of an interview is usually dedicated to allow the inter
 So don't get caught unprepared and prepare some questions on topics that you are interested in learning more about or of which you are interested in an opinion from an insider!
 
 !!! tip
-    Take advantage of the [Phase Two](#phase-two) to understand which kind of question to do
+    Take advantage of the [Phase Two](#phase-two) to understand which kind of question to do.
+    Also, asking the same question to different people (if you'll have more interviews) in the same company could be very useful
 
 __Questions examples__:
 
