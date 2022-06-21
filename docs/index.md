@@ -1,6 +1,6 @@
 # Welcome
 
-In this "preparation kit" i'm trying to explain how to prepare and how to deal Software Engineering interviews based on my experiences.
+In this "preparation kit" i'm trying to explain how to prepare and how to deal Software Engineering interviews based on my experiences (it is originated out of my own personal notes while preparing for such interviews)
 
 Usually an interview for a Software Engineer role consists of multiple steps.  
 The following are some of them that you could expect (not necessary all in one interview process):
