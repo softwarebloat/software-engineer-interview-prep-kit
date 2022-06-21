@@ -19,7 +19,7 @@ The important thing is to show good thinking, good analytical skills, general kn
 
 
 ## Topics
-Preparing for [System Design](/system-design) will help you with the Troubleshooting interview.  
+Preparing for [System Design](../system-design) will help you with the Troubleshooting interview.  
 So be prepared to talk about things like:
 
  - Accessing Servers

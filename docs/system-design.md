@@ -59,12 +59,12 @@ Usually this doesn't mean that we should redesign our application but it's just 
     Generally speaking, you could improve an application by adding things like:
     
     - multi Availability Zones (to improve availability and redundacy)
-    - [monitoring/observability](/glossary/#monitoring)
-    - [CDNs](/glossary/#cdn)
+    - [monitoring/observability](../glossary/#monitoring)
+    - [CDNs](../glossary/#cdn)
 
 ## Topics
 Be prepared to talk about things like __DB__ choice, __cache__, __async__ vs __sync__ processing, __REST__, __Load Balancers__, etc
-Some of the most commong topics are pointed out in the [Glossary](/glossary)  
+Some of the most commong topics are pointed out in the [Glossary](../glossary)  
 
 !!! question "Some Common Problems"
     - Design a URL Shortening service
