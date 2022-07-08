@@ -19,7 +19,8 @@ Feel free to make a decision but always explain it.
 
 ## Topics
 You can find all the related info about Algorithms and Data Structure in platform like Leetcode.  
-I don't see the need to deeply talk about them here at the moment
+I don't see the need to deeply talk about them here at the moment  
+Take a look at the [Resources](#resources) section for some content
 
 ## Questions
 At the end of the interview, you should have time to ask some question on topics you are interested in.  
@@ -46,6 +47,7 @@ __Reads__:
 
 - [Cracking the Coding Interview](https://www.goodreads.com/book/show/55014663-cracking-the-coding-interview)
 - [Daily Coding Problem](https://www.goodreads.com/book/show/44151058-daily-coding-problem)
+- [SW Eng Interview Prep](https://orrsella.gitbooks.io/soft-eng-interview-prep/content/)
 
 __YouTube Channels/Playlists__:  
 
