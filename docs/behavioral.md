@@ -56,7 +56,7 @@ Here's some examples of questions you could ask after a Behavioral interview:
 !!! question ""
     - Are you happy with your work/life balance?
     - What's your typical day at work?
-    - One thing that you like about working in \<company> and one that you don’t
+    - One thing that you like about working in `<company>` and one that you don’t
     - being in a squad working on a specific area, are you able to have different challenges over time?
 
 
